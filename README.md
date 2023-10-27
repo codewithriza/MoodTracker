@@ -54,9 +54,9 @@ To use the MoodTracker application, follow the specific installation and executi
 
 ## Contributors
 
-- Riza
-- Habil
-- Rihan
+- Riza Mohamed T
+- Mohammed Habil Kundil
+- Rihan Mohamed K
 
 ## Combined Features
 
