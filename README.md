@@ -9,8 +9,11 @@ MoodTracker is a multi-modal mood analysis application that provides users with 
 
 ### Text-Based Mood Analyzer
 - Allows users to input daily mood entries in text format.
-- Performs sentiment analysis using Natural Language Processing (NLP) techniques.
-- Provides visual mood feedback and trends in a web-based interface.
+- Utilizes Natural Language Processing (NLP) techniques to recognize and analyze text emotions.
+- Maps recognized emotions to corresponding emojis.
+- Provides visual mood feedback through bar graphs.
+- Offers a web-based interface for users to input and visualize their mood data.
+
 
 ### Voice-Based Mood Analyzer
 - Captures user's spoken input to analyze daily mood.
