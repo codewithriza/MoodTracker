@@ -52,9 +52,11 @@ To use the MoodTracker application, follow the specific installation and executi
 3. Voice-Based Mood Analyzer: Find the Python file `voice_mood_analyzer.py` in the repository.
 
 ## Contributors
-- Riza Mohamed T
-- Mohammed Habil Kundil
-- Rihan Mohamed K
+## Contributors
+- [Riza Mohamed T](https://github.com/codewithriza)
+- [Mohammed Habil Kundil](https://github.com/habil619)
+- [Rihan Mohamed K](https://github.com/rihanmhmd102)
+
 
 ## Combined Features
 - Mood Tracking: Each component tracks daily mood using a specific modality (camera, text, voice).
