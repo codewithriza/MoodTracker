@@ -7,7 +7,7 @@ MoodTracker is a multi-modal mood analysis application that provides users with 
 - Pre-trained model for emotion detection.
 - Displays detected mood on the screen.
 
-### Text-Based Mood Analyzer(https://mooodd.streamlit.app/)
+### [Text-Based Mood Analyzer](https://mooodd.streamlit.app/)
 - Allows users to input daily mood entries in text format.
 - Utilizes Natural Language Processing (NLP) techniques to recognize and analyze text emotions.
 - Maps recognized emotions to corresponding emojis.
