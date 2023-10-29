@@ -74,7 +74,9 @@ To use the MoodTracker application, follow the specific installation and executi
     - Install the required packages and dependencies by running the following command:
       ```bash
       pip install -r requirements.txt
-   - Run the application using the following command: `streamlit run app.py`.
+   - Run the application using the following command: 
+      ```bash
+         `streamlit run app.py`.
    - Access the app in your web browser, as it will provide a web interface for you to enter text and analyze emotions.
 
 5. **Voice-Based Mood Analyzer**
@@ -84,10 +86,10 @@ To use the MoodTracker application, follow the specific installation and executi
    - Navigate to the root folder of the project.
    - Run the voice-based mood analyzer using the following command:
       ```bash
-      `python voice_mood_analyzer.py`.
+       python voice_mood_analyzer.py
    - Install the required packages and dependencies by running the following command:
-
-    pip install -r requirements.txt
+       ```bash 
+         pip install -r requirements.txt
    - The graphical user interface for voice-based mood analysis will open, allowing you to record and analyze your mood through spoken input.
 
 ## Note
