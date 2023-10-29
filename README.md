@@ -1,21 +1,19 @@
-# MoodTracker
-MoodTracker is a multi-modal mood analysis application that provides users with different ways to track and analyze their daily mood. This project combines three components: a camera-based mood analyzer, a text-based mood analyzer, and a voice-based mood analyzer. Each component offers unique features for mood tracking and analysis.
+# [MoodTracker](https://moodtracker12345.netlify.app/)
+MoodTracker is a multi-modal mood analysis application that provides users with different ways to track and analyze their daily mood. This project combines three components: a real-time face emotion detection application, an emotion classifier app, and a voice-based mood analyzer. Each component offers unique features for mood tracking and analysis.
 
 ## Features
-### [Camera-Based Mood Analyzer](https://webcamm.streamlit.app/#webcam-live-feed)
+### [Real-Time Face Emotion Detection Application](https://webcamm.streamlit.app/#webcam-live-feed)
 - Real-time facial expression analysis using the computer's webcam.
 - Pre-trained model for emotion detection.
 - Displays detected mood on the screen.
 
-### [Text-Based Mood Analyzer](https://mooodd.streamlit.app/)
-- Allows users to input daily mood entries in text format.
-- Utilizes Natural Language Processing (NLP) techniques to recognize and analyze text emotions.
-- Maps recognized emotions to corresponding emojis.
-- Provides visual mood feedback through bar graphs.
-- Offers a web-based interface for users to input and visualize their mood data.
+### [Emotion Classifier App (Text-Based Mood Analyzer)](https://mooodd.streamlit.app/)
+- An NLP-powered web app that can predict emotions from text recognition with 70 percent accuracy.
+- Utilizes Python libraries including Numpy, Pandas, Seaborn, Scikit-learn, Scipy, Joblib, eli5, lime, neattext, altair, and Streamlit.
+- Employs a Linear regression model from the scikit-learn library to train a dataset containing speeches and their respective emotions.
+- Joblib is used for storing and using the trained model in the website.
 
-
-### Voice-Based Mood Analyzer
+### [Voice-Based Mood Analyzer](https://www.youtube.com/watch?v=jwudzL8m4CQ)
 - Captures user's spoken input to analyze daily mood.
 - Utilizes sentiment analysis for mood tracking.
 - Offers a graphical user interface for recording and analyzing mood.
@@ -23,19 +21,25 @@ MoodTracker is a multi-modal mood analysis application that provides users with 
 ## Requirements
 The MoodTracker project requires the following dependencies for each component:
 
-### Camera-Based Mood Analyzer:
+### Real-Time Face Emotion Detection Application:
 - Python
 - OpenCV
 - Keras
 - Haar Cascade Classifier
 - Pre-trained Emotion Detection Model
 
-### Text-Based Mood Analyzer:
-- Python
-- NLTK
-- TextBlob
-- Flask
-- Matplotlib
+### Emotion Classifier App (Text-Based Mood Analyzer):
+- Numpy
+- Pandas
+- Seaborn
+- Scikit-learn
+- Scipy
+- Joblib
+- eli5
+- lime
+- neattext
+- altair
+- Streamlit
 
 ### Voice-Based Mood Analyzer:
 - Python
@@ -47,22 +51,40 @@ The MoodTracker project requires the following dependencies for each component:
 ## Usage
 To use the MoodTracker application, follow the specific installation and execution instructions for each component. Each component offers a different way to track and analyze your mood.
 
-1. Camera-Based Mood Analyzer: Refer to the code in the `Emotion_Detector` folder.
-2. Text-Based Mood Analyzer: Review the code in the `NLP-Text-Emotion` folder.
-3. Voice-Based Mood Analyzer: Find the Python file `voice_mood_analyzer.py` in the repository.
+1. **Real-Time Face Emotion Detection Application**
+   - Install the required dependencies for the Real-Time Face Emotion Detection Application.
+   - Clone or download the project repository.
+   - Navigate to the `Real-Time-Face-Emotion-Detection` folder.
+   - Run the application using the following command: `streamlit run app.py`.
+   - The real-time face emotion detection application will open, and you can start using it by facing your webcam.
+
+2. **Emotion Classifier App (Text-Based Mood Analyzer)**
+   - Install the required dependencies for the Emotion Classifier App.
+   - Clone or download the project repository.
+   - Navigate to the `Emotion-Classifier-App` folder.
+   - Run the application using the following command: `streamlit run app.py`.
+   - Access the app in your web browser, as it will provide a web interface for you to enter text and analyze emotions.
+
+3. **Voice-Based Mood Analyzer**
+   - Install the required dependencies for the Voice-Based Mood Analyzer.
+   - Clone or download the project repository.
+   - Navigate to the root folder of the project.
+   - Run the voice-based mood analyzer using the following command: `python voice_mood_analyzer.py`.
+   - The graphical user interface for voice-based mood analysis will open, allowing you to record and analyze your mood through spoken input.
+
+## Note
+Each component offers a different way to track and analyze your mood. Make sure you have the required dependencies installed for the component you wish to use.
 
 ## Contributors
-## Contributors
-- [Riza Mohamed T](https://github.com/codewithriza)
-- [Mohammed Habil Kundil](https://github.com/habil619)
-- [Rihan Mohamed K](https://github.com/rihanmhmd102)
-
+- (Riza Mohamed T)[https://github.com/CODEWITHRIZA]
+- (Mohammed Habil Kundil)[https://github.com/habil619]
+- (Rihan Mohamed K)[https://github.com/rihanmhmd102]
 
 ## Combined Features
-- Mood Tracking: Each component tracks daily mood using a specific modality (camera, text, voice).
+- Mood Tracking: Each component tracks daily mood using a specific modality (real-time face, text, voice).
 - Sentiment Analysis: Sentiment analysis is performed on the captured data to determine mood.
 - Data Visualization: The text-based and voice-based analyzers provide visual mood feedback using Matplotlib.
-- Web and Graphical Interfaces: The text-based component offers a web-based interface, while the voice-based component uses a graphical user interface.
-- Real-time Updates: The camera-based component provides real-time feedback based on facial expressions.
+- Web and Graphical Interfaces: The emotion classifier app offers a web-based interface, while the voice-based component uses a graphical user interface.
+- Real-time Updates: The real-time face emotion detection application provides real-time feedback based on facial expressions.
 
 The MoodTracker project is designed to help users gain insights into their emotional well-being and better understand their daily mood patterns. It offers a variety of options for tracking and analyzing moods through different sensory modalities.
