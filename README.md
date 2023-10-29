@@ -2,7 +2,7 @@
 MoodTracker is a multi-modal mood analysis application that provides users with different ways to track and analyze their daily mood. This project combines three components: a camera-based mood analyzer, a text-based mood analyzer, and a voice-based mood analyzer. Each component offers unique features for mood tracking and analysis.
 
 ## Features
-### [Camera-Based Mood Analyzer]{https://webcamm.streamlit.app/#webcam-live-feed}
+### [Camera-Based Mood Analyzer](https://webcamm.streamlit.app/#webcam-live-feed)
 - Real-time facial expression analysis using the computer's webcam.
 - Pre-trained model for emotion detection.
 - Displays detected mood on the screen.
