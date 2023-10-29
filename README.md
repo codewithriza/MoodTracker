@@ -55,6 +55,11 @@ To use the MoodTracker application, follow the specific installation and executi
    - Install the required dependencies for the Real-Time Face Emotion Detection Application.
    - Clone or download the project repository.
    - Navigate to the `Webcam Opencv Project` folder.
+   - Install the required packages and dependencies by running the following command:
+
+   ```bash
+   pip install -r requirements.txt
+   
    - Run the application using the following command: `streamlit run app.py`.
    - The real-time face emotion detection application will open, and you can start using it by facing your webcam.
 
