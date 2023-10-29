@@ -70,7 +70,7 @@ To use the MoodTracker application, follow the specific installation and executi
     
    - Install the required dependencies for the Emotion Classifier App.
    - Clone or download the project repository.
-   - Navigate to the `Emotion-Classifier-App` folder.
+   - Navigate to the `NLP-Text-Emotion` folder.
     - Install the required packages and dependencies by running the following command:
       ```bash
       pip install -r requirements.txt
