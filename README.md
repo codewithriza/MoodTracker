@@ -84,12 +84,13 @@ To use the MoodTracker application, follow the specific installation and executi
    - Install the required dependencies for the Voice-Based Mood Analyzer.
    - Clone or download the project repository.
    - Navigate to the root folder of the project.
+   -    - Install the required packages and dependencies by running the following command:
+        ```bash 
+         pip install -r requirements.txt
    - Run the voice-based mood analyzer using the following command:
       ```bash
        python voice_mood_analyzer.py
-   - Install the required packages and dependencies by running the following command:
-       ```bash 
-         pip install -r requirements.txt
+
    - The graphical user interface for voice-based mood analysis will open, allowing you to record and analyze your mood through spoken input.
 
 ## Note
