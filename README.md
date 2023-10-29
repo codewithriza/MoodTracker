@@ -52,35 +52,39 @@ The MoodTracker project requires the following dependencies for each component:
 To use the MoodTracker application, follow the specific installation and execution instructions for each component. Each component offers a different way to track and analyze your mood.
 
 1. **Real-Time Face Emotion Detection Application**
-    ```bash
+   
 
    - Install the required dependencies for the Real-Time Face Emotion Detection Application.
    - Clone or download the project repository.
    - Navigate to the `Webcam Opencv Project` folder.
    - Install the required packages and dependencies by running the following command:
-
-    pip install -r requirements.txt
+      ```bash
+       pip install -r requirements.txt
    
-   - Run the application using the following command: `streamlit run app.py`.
+   - Run the application using the following command:
+     ```bash
+      streamlit run app.py
    - The real-time face emotion detection application will open, and you can start using it by facing your webcam.
 
 3. **Emotion Classifier App (Text-Based Mood Analyzer)**
-    ```bash
+    
    - Install the required dependencies for the Emotion Classifier App.
    - Clone or download the project repository.
    - Navigate to the `Emotion-Classifier-App` folder.
     - Install the required packages and dependencies by running the following command:
-
-    pip install -r requirements.txt
+      ```bash
+      pip install -r requirements.txt
    - Run the application using the following command: `streamlit run app.py`.
    - Access the app in your web browser, as it will provide a web interface for you to enter text and analyze emotions.
 
 5. **Voice-Based Mood Analyzer**
-   ```bash
+
    - Install the required dependencies for the Voice-Based Mood Analyzer.
    - Clone or download the project repository.
    - Navigate to the root folder of the project.
-   - Run the voice-based mood analyzer using the following command: `python voice_mood_analyzer.py`.
+   - Run the voice-based mood analyzer using the following command:
+      ```bash
+      `python voice_mood_analyzer.py`.
    - Install the required packages and dependencies by running the following command:
 
     pip install -r requirements.txt
