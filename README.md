@@ -97,9 +97,9 @@ To use the MoodTracker application, follow the specific installation and executi
 Each component offers a different way to track and analyze your mood. Make sure you have the required dependencies installed for the component you wish to use.
 
 ## Contributors
-- (Riza Mohamed T)[https://github.com/CODEWITHRIZA]
-- (Mohammed Habil Kundil)[https://github.com/habil619]
-- (Rihan Mohamed K)[https://github.com/rihanmhmd102]
+- [Riza Mohamed T](https://github.com/CODEWITHRIZA)
+- [Mohammed Habil Kundil](https://github.com/habil619)
+- [Rihan Mohamed K](https://github.com/rihanmhmd102)
 
 ## Combined Features
 - Mood Tracking: Each component tracks daily mood using a specific modality (real-time face, text, voice).
