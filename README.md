@@ -1,4 +1,13 @@
 # [MoodTracker](https://moodtracker12345.netlify.app/)
+
+## MoodTracker Live Demo
+
+Visit the live website: [MoodTracker Live](https://moodtracker12345.netlify.app/)
+
+**Note:** Scroll all the way down to access the projects.
+
+For real-time face emotion detection, access your webcam via the menu if it doesn't work.
+
 MoodTracker is a multi-modal mood analysis application that provides users with different ways to track and analyze their daily mood. This project combines three components: a real-time face emotion detection application, an emotion classifier app, and a voice-based mood analyzer. Each component offers unique features for mood tracking and analysis.
 
 ## Features
