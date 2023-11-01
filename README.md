@@ -82,10 +82,12 @@ To use the MoodTracker application, follow the specific installation and executi
 3. **Emotion Classifier App (Text-Based Mood Analyzer)**
     
    - Install the required dependencies for the Emotion Classifier App.
-   - Clone or download the project repository.
+   - If you've already cloned or downloaded the project repository, there's no need to do it again. The given command below
       ```bash
         git clone https://github.com/CODEWITHRIZA/MoodTracker.git
    - Navigate to the `NLP-Text-Emotion` folder.
+     ```bash
+         cd cd NLP-Text-Emotion
     - Install the required packages and dependencies by running the following command:
       ```bash
       pip install -r requirements.txt
@@ -97,7 +99,7 @@ To use the MoodTracker application, follow the specific installation and executi
 5. **Voice-Based Mood Analyzer**
 
    - Install the required dependencies for the Voice-Based Mood Analyzer.
-   - Clone or download the project repository.
+   - If you've already cloned or downloaded the project repository, there's no need to do it again. The given command below
       ```bash
         git clone https://github.com/CODEWITHRIZA/MoodTracker.git
    - Navigate to the root folder of the project.
