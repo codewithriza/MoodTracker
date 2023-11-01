@@ -104,6 +104,7 @@ To use the MoodTracker application, follow the specific installation and executi
    - If you've already cloned or downloaded the project repository, there's no need to do it again. The given command below
       ```bash
         git clone https://github.com/CODEWITHRIZA/MoodTracker.git
+        cd MoodTracker
    - Navigate to the root folder of the project.
    -    - Install the required packages and dependencies by running the following command:
         ```bash 
