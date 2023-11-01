@@ -65,6 +65,8 @@ To use the MoodTracker application, follow the specific installation and executi
 
    - Install the required dependencies for the Real-Time Face Emotion Detection Application.
    - Clone or download the project repository.
+     ```bash
+        git clone https://github.com/CODEWITHRIZA/MoodTracker.git
    - Navigate to the `Webcam Opencv Project` folder.
    - Install the required packages and dependencies by running the following command:
       ```bash
@@ -79,6 +81,8 @@ To use the MoodTracker application, follow the specific installation and executi
     
    - Install the required dependencies for the Emotion Classifier App.
    - Clone or download the project repository.
+      ```bash
+        git clone https://github.com/CODEWITHRIZA/MoodTracker.git
    - Navigate to the `NLP-Text-Emotion` folder.
     - Install the required packages and dependencies by running the following command:
       ```bash
@@ -92,6 +96,8 @@ To use the MoodTracker application, follow the specific installation and executi
 
    - Install the required dependencies for the Voice-Based Mood Analyzer.
    - Clone or download the project repository.
+      ```bash
+        git clone https://github.com/CODEWITHRIZA/MoodTracker.git
    - Navigate to the root folder of the project.
    -    - Install the required packages and dependencies by running the following command:
         ```bash 
