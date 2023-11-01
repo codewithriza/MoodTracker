@@ -66,19 +66,22 @@ To use the MoodTracker application, follow the specific installation and executi
    - Install the required dependencies for the Real-Time Face Emotion Detection Application.
    - Clone or download the project repository.
      ```bash
-        git clone https://github.com/CODEWITHRIZA/MoodTracker.git
-        cd MoodTracker
-   - Navigate to the `Webcam Opencv Project` folder.
-     ```bash
-     cd "Webcam Opencv Project"
-   - Install the required packages and dependencies by running the following command:
+           git clone https://github.com/CODEWITHRIZA/MoodTracker.git
+
+   ```bash
+          cd MoodTracker
+
+- Navigate to the `Webcam Opencv Project` folder.
+  ```bash
+   cd "Webcam Opencv Project"
+ - Install the required packages and dependencies by running the following command:
       ```bash
-       pip install -r requirements.txt
+    pip install -r requirements.txt
    
-   - Run the application using the following command:
+ - Run the application using the following command:
      ```bash
-      streamlit run app.py
-   - The real-time face emotion detection application will open, and you can start using it by facing your webcam.
+    streamlit run app.py
+- The real-time face emotion detection application will open, and you can start using it by facing your webcam.
 
 3. **Emotion Classifier App (Text-Based Mood Analyzer)**
     
@@ -86,17 +89,21 @@ To use the MoodTracker application, follow the specific installation and executi
    - If you've already cloned or downloaded the project repository, there's no need to do it again. The given command below
       ```bash
         git clone https://github.com/CODEWITHRIZA/MoodTracker.git
-        cd MoodTracker
-   - Navigate to the `NLP-Text-Emotion` folder.
+
+      
+   ```bash
+          cd MoodTracker
+   
+- Navigate to the `NLP-Text-Emotion` folder.
      ```bash
          cd NLP-Text-Emotion
-    - Install the required packages and dependencies by running the following command:
-      ```bash
-      pip install -r requirements.txt
-   - Run the application using the following command: 
+- Install the required packages and dependencies by running the following command:
+  ```bash
+     pip install -r requirements.txt
+- Run the application using the following command: 
       ```bash
          `streamlit run app.py`.
-   - Access the app in your web browser, as it will provide a web interface for you to enter text and analyze emotions.
+ - Access the app in your web browser, as it will provide a web interface for you to enter text and analyze emotions.
 
 5. **Voice-Based Mood Analyzer**
 
