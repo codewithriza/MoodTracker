@@ -1,4 +1,4 @@
-speech_recognition==3.8.1
-tk==0.1.0
-textblob==0.15.3
-matplotlib==3.4.2
+speech_recognition
+tk
+textblob
+matplotlib
