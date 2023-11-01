@@ -68,6 +68,8 @@ To use the MoodTracker application, follow the specific installation and executi
      ```bash
         git clone https://github.com/CODEWITHRIZA/MoodTracker.git
    - Navigate to the `Webcam Opencv Project` folder.
+     ```bash
+     cd "Webcam Opencv Project"
    - Install the required packages and dependencies by running the following command:
       ```bash
        pip install -r requirements.txt
