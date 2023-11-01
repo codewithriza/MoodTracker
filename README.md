@@ -67,10 +67,6 @@ To use the MoodTracker application, follow the specific installation and executi
 - Clone or download the project repository.
    ```bash
         git clone https://github.com/CODEWITHRIZA/MoodTracker.git
-
-  
-  
-
 - Navigate to the `Webcam Opencv Project` folder.
   ```bash
    cd "Webcam Opencv Project"
