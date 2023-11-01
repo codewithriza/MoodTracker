@@ -67,6 +67,7 @@ To use the MoodTracker application, follow the specific installation and executi
    - Clone or download the project repository.
      ```bash
         git clone https://github.com/CODEWITHRIZA/MoodTracker.git
+        cd MoodTracker
    - Navigate to the `Webcam Opencv Project` folder.
      ```bash
      cd "Webcam Opencv Project"
@@ -85,6 +86,7 @@ To use the MoodTracker application, follow the specific installation and executi
    - If you've already cloned or downloaded the project repository, there's no need to do it again. The given command below
       ```bash
         git clone https://github.com/CODEWITHRIZA/MoodTracker.git
+        cd MoodTracker
    - Navigate to the `NLP-Text-Emotion` folder.
      ```bash
          cd NLP-Text-Emotion
