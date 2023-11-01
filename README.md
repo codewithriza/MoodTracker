@@ -85,7 +85,7 @@ To use the MoodTracker application, follow the specific installation and executi
    - If you've already cloned or downloaded the project repository, there's no need to do it again. The given command below
    ```bash
         git clone https://github.com/CODEWITHRIZA/MoodTracker.git
-   
+        cd MoodTracker
 - Navigate to the `NLP-Text-Emotion` folder.
      ```bash
          cd NLP-Text-Emotion
@@ -93,8 +93,8 @@ To use the MoodTracker application, follow the specific installation and executi
   ```bash
      pip install -r requirements.txt
 - Run the application using the following command: 
-      ```bash
-         `streamlit run app.py`.
+  ```bash
+    streamlit run app.py
  - Access the app in your web browser, as it will provide a web interface for you to enter text and analyze emotions.
 
 5. **Voice-Based Mood Analyzer**
