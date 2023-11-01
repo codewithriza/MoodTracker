@@ -61,12 +61,10 @@ The MoodTracker project requires the following dependencies for each component:
 To use the MoodTracker application, follow the specific installation and execution instructions for each component. Each component offers a different way to track and analyze your mood.
 
 1. **Real-Time Face Emotion Detection Application**
-   
-
 - Install the required dependencies for the Real-Time Face Emotion Detection Application.
 - Clone or download the project repository.
-   ```bash
-        git clone https://github.com/CODEWITHRIZA/MoodTracker.git
+     ```bash
+         git clone https://github.com/CODEWITHRIZA/MoodTracker.git
 - Navigate to the `Webcam Opencv Project` folder.
   ```bash
    cd "Webcam Opencv Project"
@@ -80,9 +78,8 @@ To use the MoodTracker application, follow the specific installation and executi
 - The real-time face emotion detection application will open, and you can start using it by facing your webcam.
 
 3. **Emotion Classifier App (Text-Based Mood Analyzer)**
-    
-   - Install the required dependencies for the Emotion Classifier App.
-   - If you've already cloned or downloaded the project repository, there's no need to do it again. The given command below
+- Install the required dependencies for the Emotion Classifier App.
+- - If you've already cloned or downloaded the project repository, there's no need to do it again. The given command below
    ```bash
         git clone https://github.com/CODEWITHRIZA/MoodTracker.git
         cd MoodTracker
