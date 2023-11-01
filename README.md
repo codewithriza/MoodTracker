@@ -77,7 +77,7 @@ To use the MoodTracker application, follow the specific installation and executi
     streamlit run app.py
 - The real-time face emotion detection application will open, and you can start using it by facing your webcam.
 
-3. **Emotion Classifier App (Text-Based Mood Analyzer)**
+2. **Emotion Classifier App (Text-Based Mood Analyzer)**
 - Install the required dependencies for the Emotion Classifier App.
 - - If you've already cloned or downloaded the project repository, there's no need to do it again. The given command below
    ```bash
@@ -94,7 +94,7 @@ To use the MoodTracker application, follow the specific installation and executi
     streamlit run app.py
  - Access the app in your web browser, as it will provide a web interface for you to enter text and analyze emotions.
 
-5. **Voice-Based Mood Analyzer**
+3. **Voice-Based Mood Analyzer**
 
    - Install the required dependencies for the Voice-Based Mood Analyzer.
    - If you've already cloned or downloaded the project repository, there's no need to do it again. The given command below
