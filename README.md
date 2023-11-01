@@ -87,7 +87,7 @@ To use the MoodTracker application, follow the specific installation and executi
         git clone https://github.com/CODEWITHRIZA/MoodTracker.git
    - Navigate to the `NLP-Text-Emotion` folder.
      ```bash
-         cd cd NLP-Text-Emotion
+         cd NLP-Text-Emotion
     - Install the required packages and dependencies by running the following command:
       ```bash
       pip install -r requirements.txt
