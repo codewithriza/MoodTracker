@@ -1,3 +1,7 @@
+#Webcam opnecv project
+#If u want the live preview visit at this website :- https://webcamm.streamlit.app/
+#Made by Riza Mohamed T
+
 import numpy as np
 import cv2
 import streamlit as st
