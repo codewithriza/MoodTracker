@@ -4,7 +4,7 @@
 
 ## MoodTracker Live Demo
 
-Visit the live website: [MoodTracker Live](https://moodtracker12345.netlify.app/)
+
 
 **Note:** Scroll all the way down to access the projects
 
