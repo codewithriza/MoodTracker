@@ -122,3 +122,9 @@ Each component offers a different way to track and analyze your mood. Make sure 
 - Real-time Updates: The real-time face emotion detection application provides real-time feedback based on facial expressions.
 
 The MoodTracker project is designed to help users gain insights into their emotional well-being and better understand their daily mood patterns. It offers a variety of options for tracking and analyzing moods through different sensory modalities.
+
+
+---
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/887532157747212370)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/codewithriza)
+
