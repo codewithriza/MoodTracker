@@ -17,7 +17,7 @@ MoodTracker is a multi-modal mood analysis application that provides users with 
 - Displays detected mood on the screen.
 
 ### [Emotion Classifier App (Text-Based Mood Analyzer)](https://mooodd.streamlit.app/)
-- An NLP-powered web app that can predict emotions from text recognition with 70 percent accuracy.
+- An NLP-powered web app that can predict emotions from text recognition with 93 percent accuracy.
 - Utilizes Python libraries including Numpy, Pandas, Seaborn, Scikit-learn, Scipy, Joblib, eli5, lime, neattext, altair, and Streamlit.
 - Employs a Linear regression model from the scikit-learn library to train a dataset containing speeches and their respective emotions.
 - Joblib is used for storing and using the trained model in the website.
